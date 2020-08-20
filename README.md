@@ -102,8 +102,10 @@ int main()
 
 
 
+{
 
 OUTPUT
+
 
 
 Vertex 		 Distance from Source
@@ -116,3 +118,5 @@ Vertex 		 Distance from Source
 6 		 9
 7 		 8
 8 		 14
+
+}
